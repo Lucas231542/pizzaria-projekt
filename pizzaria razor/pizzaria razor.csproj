@@ -7,4 +7,10 @@
     <RootNamespace>pizzaria_razor</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Administrator\" />
+    <Folder Include="Pages\Kunde\" />
+    <Folder Include="Pages\Login\" />
+  </ItemGroup>
+
 </Project>

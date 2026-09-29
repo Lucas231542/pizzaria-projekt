@@ -1,6 +1,6 @@
 ﻿namespace Pizzaria_Lib
 {
-    public class Class1
+    public class Booking
     {
 
     }

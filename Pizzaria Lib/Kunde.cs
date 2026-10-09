@@ -6,5 +6,6 @@ namespace Pizzaria_Lib
 {
     public class Kunde : Bruger
     {
+
     }
 }

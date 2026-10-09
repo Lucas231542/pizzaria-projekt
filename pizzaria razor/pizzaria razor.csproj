@@ -7,4 +7,8 @@
     <RootNamespace>pizzaria_razor</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Pizzaria Lib\Pizzaria Lib.csproj" />
+  </ItemGroup>
+
 </Project>
